@@ -1,0 +1,1 @@
+# -Battery-life-impact-of-the-over-the-air-activation-on-LoRaWAN-end-devices
